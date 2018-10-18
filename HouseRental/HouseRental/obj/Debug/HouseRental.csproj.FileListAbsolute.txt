@@ -1,0 +1,16 @@
+C:\Users\Lisa\source\repos\HouseRental\HouseRental\bin\Debug\HouseRental.exe.config
+C:\Users\Lisa\source\repos\HouseRental\HouseRental\bin\Debug\HouseRental.exe
+C:\Users\Lisa\source\repos\HouseRental\HouseRental\bin\Debug\HouseRental.pdb
+C:\Users\Lisa\source\repos\HouseRental\HouseRental\obj\Debug\HouseRental.csprojAssemblyReference.cache
+C:\Users\Lisa\source\repos\HouseRental\HouseRental\obj\Debug\HouseRental.Forms.SearchForHousing.resources
+C:\Users\Lisa\source\repos\HouseRental\HouseRental\obj\Debug\HouseRental.Forms.TenantForm.resources
+C:\Users\Lisa\source\repos\HouseRental\HouseRental\obj\Debug\HouseRental.Loign.resources
+C:\Users\Lisa\source\repos\HouseRental\HouseRental\obj\Debug\HouseRental.Forms.LandLord_Details.resources
+C:\Users\Lisa\source\repos\HouseRental\HouseRental\obj\Debug\HouseRental.Properties.Resources.resources
+C:\Users\Lisa\source\repos\HouseRental\HouseRental\obj\Debug\HouseRental.csproj.GenerateResource.cache
+C:\Users\Lisa\source\repos\HouseRental\HouseRental\obj\Debug\HouseRental.csproj.CoreCompileInputs.cache
+C:\Users\Lisa\source\repos\HouseRental\HouseRental\obj\Debug\HouseRental.exe
+C:\Users\Lisa\source\repos\HouseRental\HouseRental\obj\Debug\HouseRental.pdb
+C:\Users\Lisa\source\repos\HouseRental\HouseRental\bin\Debug\MySql.Data.dll
+C:\Users\Lisa\source\repos\HouseRental\HouseRental\bin\Debug\MySql.Data.xml
+C:\Users\Lisa\source\repos\HouseRental\HouseRental\obj\Debug\HouseRental.csproj.CopyComplete
